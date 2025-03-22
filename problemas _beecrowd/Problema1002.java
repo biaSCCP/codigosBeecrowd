@@ -17,7 +17,7 @@ problemas, não esqueça de imprimir o fim de linha após o resultado, caso cont
 import java.io.IOException;
  
 import java.util.Scanner;
-public class problema1002 {
+public class Problema1002 {
  
     public static void main(String[] args) throws IOException {
  

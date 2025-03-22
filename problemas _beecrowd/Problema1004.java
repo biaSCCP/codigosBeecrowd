@@ -15,7 +15,7 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 import java.io.IOException;
 import java.util.Scanner; 
 
-public class problema1004 {
+public class Problema1004 {
  
     public static void main(String[] args) throws IOException {
  

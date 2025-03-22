@@ -15,7 +15,7 @@ linha.
 
 import java.io.IOException;
 import java.util.Scanner;
-public class problema1001 {
+public class Problema1001 {
  
     public static void main(String[] args) throws IOException {
  

@@ -13,7 +13,7 @@ Você deve imprimir a mensagem "Hello World!".
 
 
 import java.io.IOException;
-public class problema1000 {
+public class Problema1000 {
  
     public static void main(String[] args) throws IOException {
  

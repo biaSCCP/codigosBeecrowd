@@ -15,7 +15,7 @@ depois da igualdade seguido pelo valor correspondente à soma de A e B. Como tod
 
 import java.io.IOException;
 import java.util.Scanner;
-public class problema1003 {
+public class Problema1003 {
  
     public static void main(String[] args) throws IOException {
  
