@@ -24,11 +24,11 @@ public class Problema1010 {
     Scanner scan = new Scanner(System.in);
     
     int codigoP1 = scan.nextInt();
-    double qtdPecas1 = scan.nextDouble();
+    int qtdPecas1 = scan.nextInt();
     double valPorPeca1 = scan.nextDouble();
     
     int codigoP2 = scan.nextInt();
-    double qtdPecas2 = scan.nextDouble();
+    int qtdPecas2 = scan.nextInt();
     double valPorPeca2 = scan.nextDouble();
     
     Double resultado1 = valor1(qtdPecas1, valPorPeca1);
@@ -36,6 +36,7 @@ public class Problema1010 {
     
     Double total = resultado1 + resultado2;
     
+    System.out.println(codigoP1 + codigoP2);
     System.out.printf("VALOR A PAGAR: R$ %.2f\n", total);
     
     scan.close();

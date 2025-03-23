@@ -25,6 +25,8 @@ public class Problema1009 {
     double valorVendas = scan.nextDouble();
     
     double resultado = analise(salarioFixo, valorVendas);
+    
+    System.out.println(nomeVendedor);
     System.out.printf("TOTAL = %.2f\n", resultado);
     scan.close();
     }
